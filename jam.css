@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #f0cccc;
+    color: #d7e5f5;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.container {
+    background: #664a4a;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px #edfffb;
+}
+
+.jam {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.tanggal {
+    margin-top: 15px;
+    font-size: 20px;
+}
